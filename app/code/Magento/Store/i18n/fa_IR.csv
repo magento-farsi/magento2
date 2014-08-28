@@ -1,0 +1,12 @@
+"All Store Views","همه نماهای فروشگاه"
+"-- Please Select --","-- لطفا انتخاب کنید --"
+Admin,مدیریت
+"Store with the same code","فروشگاه با کد یکسان"
+"Website with the same code","وبسایت با کد یکسان"
+"Website code may only contain letters (a-z), numbers (0-9) or underscore(_), the first character must be a letter","کد وبسایت تنها می‌تواند شامل حروف (a-z)، اعداد (0-9) و خط زیرین(_) باشد، اولین کاراکتر باید حرف باشد"
+"Name is required","نام الزامی است"
+"The store code may contain only letters (a-z), numbers (0-9) or underscore(_),' ' the first character must be a letter","کد فروشگاه تنها می‌تواند شامل حروف (a-z)، اعداد (0-9) و خط زیرین(_) باشد، اولین کاراکتر باید حرف باشد"
+"Your Language:","زبان شما:"
+"Your Language","زبان شما"
+Language,زبان
+"Select Store","انتخاب فروشگاه"
